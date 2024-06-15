@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bruffingii
-- 👀 I’m interested in Learning front end and backend webdevelopment.
-- 🌱 I’m currently learning HTML5, CSS3, and JavaScript.
+- 👀 I’m interested in Learning.
+- 🌱 I’m currently learning Python, C, C++, C#, Rust, and Java
 - 💞️ I’m looking to collaborate on as much as I can given my current time constraints
 - 📫 How to reach me Bruffingii.br@gmail.com
 
